@@ -5,8 +5,9 @@
 
 
 ## Credits
-* [webtorrent cli)](https://webtorrent.io/) torrent downloader
-* [JaKiya (me)](https://github.com/jakiyaa) create this colab notebook
+* [JaKiya (**ME**)](https://github.com/jakiyaa) create this colab notebook
+* [webtorrent cli](https://webtorrent.io/) torrent downloader
 * [Rclone Team](https://rclone.org) mount cloud drives
 
+<br><br>
 ![Screenshot 2021-07-19 130100](https://user-images.githubusercontent.com/67457538/126129913-f90ed629-1b03-474c-bc83-34cd68070512.png)
